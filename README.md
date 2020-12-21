@@ -16,3 +16,5 @@ We feel that a welcoming community is important and we ask that you follow Twitt
 in all interactions with the community.
 
 **TODO:** Create your own [Awesome README](https://github.com/matiassingers/awesome-readme)!
+
+## Authors
